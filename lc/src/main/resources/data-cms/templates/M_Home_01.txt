@@ -1,0 +1,34 @@
+{
+	"page_sub_title": "better education, better future for all",
+	"page_title": "leafy campus",
+	"MAIN_SECTION": {
+		"section_id": "Resources",
+		"section_title": "",
+		"section_links_att": "",
+		"link_qtt": 3,
+		"SECTION_LINKS_ZN": [
+			{
+				"link_id": "home/MC01",
+				"link_title": "Basic Definitions of Amalgamations and Mergers",
+				"link_sub_title": "The legal meaning of the terms.",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			},
+			{
+				"link_id": "home/C02",
+				"link_title": "Amalgamations - the Tax Angle",
+				"link_sub_title": "Income Tax and Stamp Laws",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			},
+			{
+				"link_id": "home/C03",
+				"link_title": "Why it makes sense to push for your scheme in 2015",
+				"link_sub_title": "A primer of the projected Tax scenario",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			}
+		],
+		"more_pages_link_ic": "1"
+	}
+}

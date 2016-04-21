@@ -1,0 +1,31 @@
+{
+	"page_sub_title": "Liberal Education",
+	"page_title": "<h3>Understanding Liberal Education</h3>",
+	"page_description_text": "",
+	"page_id": "C03T",
+	"page_content_present_ic": "1",
+	"page_content_type_cd": "1",
+	"page_content_text": "C03C01",
+	"list_pagination_ic": "1",
+	"list_pagination_txt": "More on this",
+	"list_pagination_link": "C03T1",
+	"section_news_present_ic": "1",
+	"SECTION_NEWS_ZN": [
+		{
+			"link_href": "home/MC01",
+			"link_title": "Liberal Education and STEM",
+			"link_sub_title": "Courtersy-AACU",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		}
+	],
+	"SECTION_LINKS_ZN": [
+		{
+			"link_href": "home/MC01",
+			"link_title": "Liberal Education and STEM",
+			"link_sub_title": "Courtersy-AACU",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		}
+	]
+}

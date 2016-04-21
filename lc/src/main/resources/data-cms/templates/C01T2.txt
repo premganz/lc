@@ -1,0 +1,22 @@
+{
+	"page_sub_title": "Liberal Education",
+	"page_title": "",
+	"page_description_text": "<h3>Whats Fresh</h3>",
+	"page_id": "C01T2",
+	"page_content_present_ic": "1",
+	"page_content_type_cd": "1",
+	"page_content_text": "C01C03",
+	"list_pagination_ic": "1",
+	"list_pagination_txt": "More on this",
+	"list_pagination_link": "C01T3",
+	"section_news_present_ic": "1",
+	"SECTION_NEWS_ZN": [
+		{
+			"link_href": "home/MC01",
+			"link_title": "Liberal Education and STEM",
+			"link_sub_title": "Courtersy-AACU",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		}
+	]
+}

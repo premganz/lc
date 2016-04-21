@@ -1,0 +1,34 @@
+{
+	"page_sub_title": "better education, better future for all",
+	"page_title": "Leafy Campus",
+	"MAIN_SECTION": {
+		"section_id": "Resources",
+		"section_title": "",
+		"section_links_att": "",
+		"link_qtt": 3,
+		"SECTION_LINKS_ZN": [
+			{
+				"link_id": "home/MC01",
+				"link_title": "What does a nice campus mean to a kid",
+				"link_sub_title": "Campus Experience and Education.",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			},
+			{
+				"link_id": "home/C02",
+				"link_title": "Education the Greek Way",
+				"link_sub_title": "The way the world changed",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			},
+			{
+				"link_id": "home/C03",
+				"link_title": "What does it mean to an institution",
+				"link_sub_title": "the fine balance",
+				"link_by": "Admin",
+				"link_date": "September 1, 2015"
+			}
+		],
+		"more_pages_link_ic": "1"
+	}
+}

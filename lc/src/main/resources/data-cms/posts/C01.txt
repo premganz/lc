@@ -1,0 +1,1 @@
+<p>hello world<img src="../img/az.png" alt="" /></p>

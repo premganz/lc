@@ -1,0 +1,61 @@
+{
+	"page_sub_title": "Liberal Education",
+	"page_title": "",
+	"content_news_link": "<h3>Blogs</h3>",	
+	"page_id": "LA01T",
+	"page_content_type_cd": "0",
+	"page_welcome_text": "A01C02",
+	"list_pagination_ic": "1",
+	"list_pagination_txt": "More on this",
+	"list_pagination_link": "C01T1",	
+	"page_description_text": "C01T1",
+	
+	
+
+	"SECTION_LINKS_BLOG_ZN": [
+		{
+			"link_id": "home/MC01",
+			"link_title": "Liberal Education and STEM",
+			"link_sub_title": "Courtersy-AACU",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		},
+		{
+			"link_id": "home/C02",
+			"link_title": "Education for peace",
+			"link_sub_title": "making a global citizen",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		},
+		{
+			"link_id": "home/C03",
+			"link_title": "A Fine balance of running an education institution",
+			"link_sub_title": "Acadamic engagement vs Measurable Outcomes",
+			"link_by": "Admin",
+			"link_date": "October 1, 2015"
+		}
+	],
+	"SECTION_TAGS_ZN": [
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		}
+	],
+	"list_pagination_ic": "1"
+}

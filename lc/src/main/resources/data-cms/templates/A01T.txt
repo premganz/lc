@@ -1,0 +1,58 @@
+{
+	"page_sub_title": "better education, better future for all",
+	"page_title": "",
+	"page_description_text": "<h4>The Leafy Campus Organization is a small non profit for promoting liberal education in India",
+	"page_content_present_ic": "1",
+	"page_content_type_cd": "1",
+	"page_content_text": "A01C02",
+	"section_list_present_ic": "1",
+	"page_id": "A01T",
+	"section_list_heading": "Recent Updates",
+	"section_list_qtt": "3",
+	"SECTION_LINKS_ZN": [
+		{
+			"link_id": "home/MC01",
+			"link_title": "Liberal Education and STEM",
+			"link_sub_title": "Courtersy-AACU",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		},
+		{
+			"link_id": "home/C02",
+			"link_title": "Education for peace",
+			"link_sub_title": "making a global citizen",
+			"link_by": "Admin",
+			"link_date": "September 1, 2015"
+		},
+		{
+			"link_id": "home/C03",
+			"link_title": "A Fine balance of running an education institution",
+			"link_sub_title": "Acadamic engagement vs Measurable Outcomes",
+			"link_by": "Admin",
+			"link_date": "October 1, 2015"
+		}
+	],
+	"SECTION_NEWS_ZN": [
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		},
+		{
+			"link_id": "http://timesofindia.indiatimes.com/home/education/news/Change-in-exam-welcome-but-teaching-rejig-needed-Experts/articleshow/50721021.cms",
+			"link_title": "Times of India:Jan 25,2016",
+			"link_sub_title": "Change in exam welcome but teaching rejig needed: Experts"
+		}
+	],
+	"list_pagination_ic": "1"
+}

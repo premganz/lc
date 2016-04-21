@@ -1,0 +1,15 @@
+{
+	"page_sub_title": "better education, better future for all",
+	"page_title": "",
+	"page_description_text": "</br><h2>About Us</h2></br>",
+	"page_content_present_ic": "1",
+	"page_content_type_cd": "1",
+	"page_content_text": "B01C01",
+	"section_list_present_ic": "1",
+	"section_list_heading": "Recent Updates",
+	"section_list_qtt": "3",
+	"SECTION_LINKS_ZN": [
+		{}
+	],
+	"list_pagination_ic": "1"
+}
